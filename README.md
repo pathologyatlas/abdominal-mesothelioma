@@ -1,32 +1,9 @@
-# template
-
-
-
-**template for pathology atlas repositories**
+# abdominal-mesothelioma
 
 
 
 
-> see [make-html-WSI](https://github.com/pathologyatlas/make-html-WSI) for more information and [TODO](https://github.com/pathologyatlas/TODO) to add cases
-
-
-
-
-> do not forget to activate github pages for the new repository
-
-
-
-
-```zsh
-
-vips dzsave HE.svs HE
-
-```
-
-
-
-
-```{r language template, echo=FALSE, include=TRUE}
+```{r language abdominal-mesothelioma, echo=FALSE, include=TRUE}
 
 source("./R/language.R")
 
@@ -37,7 +14,7 @@ source("./R/language.R")
 
 ```{asis, echo = (language == "TR")}
 
-# TemplateTR
+# Abdominal mezotelyoma
 
 ```
 
@@ -46,7 +23,7 @@ source("./R/language.R")
 
 ```{asis, echo = (language == "EN")}
 
-# TemplateEN
+# Abdominal mesothelioma
 
 ```
 
@@ -55,14 +32,14 @@ source("./R/language.R")
 
 ```{asis, echo = (language == "TR")}
 
-**templateTR**
+**Abdominal mezotelyoma**
 
 
-[https://pathologyatlas.github.io/template/HE.html](https://pathologyatlas.github.io/template/HE.html)
+[https://pathologyatlas.github.io/abdominal-mesothelioma/HE.html](https://pathologyatlas.github.io/abdominal-mesothelioma/HE.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/template/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://pathologyatlas.github.io/abdominal-mesothelioma/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
@@ -71,14 +48,14 @@ Mikroskopik görüntüleri inceleyin:
 
 ```{asis, echo = (language == "EN")}
 
-**templateEN**
+**Abdominal mesothelioma**
 
 
-[https://pathologyatlas.github.io/template/HE.html](https://pathologyatlas.github.io/template/HE.html)
+[https://pathologyatlas.github.io/abdominal-mesothelioma/HE.html](https://pathologyatlas.github.io/abdominal-mesothelioma/HE.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/template/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://pathologyatlas.github.io/abdominal-mesothelioma/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
