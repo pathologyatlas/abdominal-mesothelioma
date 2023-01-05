@@ -35,11 +35,11 @@ source("./R/language.R")
 **Abdominal mezotelyoma**
 
 
-[https://pathologyatlas.github.io/abdominal-mesothelioma/HE.html](https://pathologyatlas.github.io/abdominal-mesothelioma/HE.html)
+[https://images.patolojiatlasi.com/abdominal-mesothelioma/HE.html](https://images.patolojiatlasi.com/abdominal-mesothelioma/HE.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/abdominal-mesothelioma/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://images.patolojiatlasi.com/abdominal-mesothelioma/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
@@ -51,11 +51,11 @@ Mikroskopik görüntüleri inceleyin:
 **Abdominal mesothelioma**
 
 
-[https://pathologyatlas.github.io/abdominal-mesothelioma/HE.html](https://pathologyatlas.github.io/abdominal-mesothelioma/HE.html)
+[https://images.patolojiatlasi.com/abdominal-mesothelioma/HE.html](https://images.patolojiatlasi.com/abdominal-mesothelioma/HE.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/abdominal-mesothelioma/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://images.patolojiatlasi.com/abdominal-mesothelioma/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
